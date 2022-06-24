@@ -1,2 +1,1 @@
-# Write-a-javascript-code-that-prints-out-your-name-height-and-country-on-the-screen
-Write a javascript code that prints out your name, height, and country on the screen
+file:///Users/admin/Downloads/DJANGO_COURSE_1.xx/Bootstrap/Boostrap_Project_Solutions/intro.html
